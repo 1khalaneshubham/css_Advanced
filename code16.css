@@ -1,0 +1,17 @@
+/* h2 {
+    display: inline;
+    background-color: rgb(32, 128, 212);
+}
+span {
+    display: block;
+    background-color: yellowgreen;
+} */
+
+span {
+        /* display: block; */
+        /* background-color: palevioletred; */
+        border: 2px solid black;
+        height: 100px;
+        width: 200px;
+        padding: 50px;
+}

@@ -1,0 +1,19 @@
+
+  #mainTopic{
+    color: blue;
+  }
+  *{
+    text-align: center;
+  }
+  h1,h2,h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .A{
+    color: white;
+    background-color:cornflowerblue;
+
+  }
+   div button{
+    background-color: purple;
+    color: azure;
+  }

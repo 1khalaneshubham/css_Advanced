@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    /* text-decoration: underline; */
+    /* text-decoration: rgb(255, 4, 0) underline; */
+    text-decoration: rgb(255, 4, 0)wavy underline;
+    letter-spacing: 1.5px;
+    font-size: 30px;
+    /* font-family:'Times New Roman', Times, serif; */
+    font-family:;
+}
+h3{
+    text-align: start;
+    text-decoration: line-through;
+    /* text-decoration: peru line-through; */
+    text-decoration: peru dotted line-through;
+    font-size: 25px;
+}
+p{
+    text-align: justify;
+    font-weight: normal;
+     /* min wight is 100 max is 900 */
+     line-height: 1.7;
+     letter-spacing: 1.5px;
+     font-size: 15px;
+     font-family: 'Segoe UI';
+}
+h2{
+    font-weight: bold;
+    /* text-decoration: overline; */
+    /* text-decoration: rgb(212, 9, 195) overline; */
+    text-decoration: rgb(212, 9, 195)double overline;
+}
+a{
+    text-decoration: none;
+}

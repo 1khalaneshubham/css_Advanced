@@ -1,0 +1,22 @@
+/* div {
+    background-color: rgb(183, 125, 238);
+}
+p {
+    background-color: rgb(61, 212, 235);
+} */
+
+div {
+    background-color: #e5f016;
+}
+input {
+    background-color: inherit;
+}
+button {
+    background-color: inherit;
+}
+button:hover {
+    background-color: red;
+}
+
+/* 1)coolor websiet is for color greding
+   2)  for color patterns */
